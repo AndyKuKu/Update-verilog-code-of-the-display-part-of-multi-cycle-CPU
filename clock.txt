@@ -1,0 +1,5 @@
+IBUFDS clk_200mhz_buf(
+    .O(CLK_200MHZ),
+    .I(CLK_200MHZ_P),
+    .IB(CLK_200MHZ_N));
+    
