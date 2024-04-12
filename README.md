@@ -1,4 +1,4 @@
-# Update-verilog-code-of-the-display-part-of-multi-cycle-CPU
+# Verilog-code-of-the-display-part-of-multi-cycle-CPU
 
 1.1 Experiment Purpose
 (1) Warmup with what you have learned in the course of Computer Organization.
